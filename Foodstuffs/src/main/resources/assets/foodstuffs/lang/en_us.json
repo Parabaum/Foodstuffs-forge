@@ -1,0 +1,22 @@
+{
+  "item.foodstuffs.salt_chunk": "Salt Chunk",
+  "item.foodstuffs.sweet_bread": "Sweet Bread",
+  "itemGroup.FoodstuffsTab": "Foodstuffs",
+  "item.foodstuffs.honey_melon": "Honey Melon",
+  "item.foodstuffs.honey_pie": "Honey Pie",
+  "item.foodstuffs.berry_pie": "Berry Pie",
+  "item.foodstuffs.sweetberry_jam": "Sweetberry Jam",
+  "item.foodstuffs.jar": "Jar",
+  "item.foodstuffs.pear": "Pear",
+  "item.foodstuffs.silver_pear": "Silver Pear",
+  "item.foodstuffs.pickled_carrot": "Pickled Carrot",
+  "item.foodstuffs.pretzel": "Pretzel",
+  "item.foodstuffs.stockfish": "Stockfish",
+
+
+
+  "item.foodstuffs.salt_ore_block": "Salt Ore",
+  "item.foodstuffs.salt_block": "Block of Salt",
+  "block.foodstuffs.salt_ore_block": "Salt Ore",
+  "block.foodstuffs.salt_block": "Block of Salt"
+}
