@@ -35,6 +35,9 @@ public class RegistryHandler {
     public static final RegistryObject<SweetberryJam> SWEETBERRY_JAM = ITEMS.register("sweetberry_jam", SweetberryJam::new);
     public static final RegistryObject<PickledCarrot> PICKLED_CARROT = ITEMS.register("pickled_carrot", PickledCarrot::new);
     public static final RegistryObject<Stockfish> STOCKFISH = ITEMS.register("stockfish", Stockfish::new);
+    public static final RegistryObject<ApplePie> APPLE_PIE = ITEMS.register("apple_pie", ApplePie::new);
+
+
 
     //Blocks
     public static final RegistryObject<Block> SALT_ORE_BLOCK = BLOCKS.register("salt_ore_block", SaltOreBlock::new);
