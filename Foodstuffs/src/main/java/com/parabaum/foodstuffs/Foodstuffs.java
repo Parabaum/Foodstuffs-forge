@@ -31,7 +31,6 @@ public class Foodstuffs
     private void setup(final FMLCommonSetupEvent event){
         OreGeneration.registerOres();
     }
-//test
     private void doClientStuff(final FMLClientSetupEvent event) { }
 
     public static final ItemGroup TAB = new ItemGroup("FoodstuffsTab") {
